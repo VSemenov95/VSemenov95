@@ -27,7 +27,7 @@ Configuration: Owner (Environment management)
 
 Стек: Java, Appium, Selenide, JUnit 5, Android Studio.
 Запуск возможен в 3 режимах: локально, удаленно (через browserStack), а также на реальном устройстве.
-3. [API Testing Framework] (https://github.com/VSemenov95/book_club_tests)
+3. [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
 Набор тестов для проверки основных ручек приложения, дополнительно реализованы UI-тесты с подготовкой данных через API.
 
 Стек: Java, Rest Assured, AssertJ, Jackson.
