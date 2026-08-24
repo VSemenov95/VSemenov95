@@ -19,8 +19,7 @@
 - **CI/CD & Reporting:** Jenkins, Allure Report, Allure TestOps
 - **Configuration:** Owner (Environment management)
 ## 🚀 Основные проекты
-- ***[UI на примере учебного тренажера Яндекс.Самокат](https://github.com/VSemenov95/ya_samokat_ui_tests)***
-.
+- ***[UI tests на примере учебного тренажера Яндекс.Самокат](https://github.com/VSemenov95/ya_samokat_ui_tests)***
 
 **Стек:**
 Java • Selenide • JUnit • Owner.
@@ -30,7 +29,7 @@ Java • Selenide • JUnit • Owner.
 
 ---
 
-- ***[Mobile for Android на примере Wiki](https://github.com/VSemenov95/Wiki_mobile_tests)***
+- ***[Mobile tests for Android на примере Wiki](https://github.com/VSemenov95/Wiki_mobile_tests)***
 
 **Стек:**
 Java • Appium • Selenide • JUnit 5 • Android Studio.
@@ -39,7 +38,7 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 ---
 
-- ***[API & UI тесты на основе учебного тренажера BookClub](https://github.com/VSemenov95/book_club_tests)***
+- ***[API & UI tests на примере учебного тренажера BookClub](https://github.com/VSemenov95/book_club_tests)***
 
 **Стек:**
 Java • Rest Assured • AssertJ • Jackson
