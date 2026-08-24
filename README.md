@@ -19,6 +19,7 @@ Configuration: Owner (Environment management)
 
 Стек:
 Java • Selenide • JUnit • Owner.
+
 Реализовано: Интеграция с Allure Report & Allure TestOps, управление конфигурациями через Owner для разных окружений (local/remote).
 Сборку можно запускать через Jenkins. 
 Также тесты можно запускать из Allure TestOps
@@ -28,6 +29,7 @@ Java • Selenide • JUnit • Owner.
 
 Стек:
 Java • Appium • Selenide • JUnit 5 • Android Studio.
+
 Запуск возможен в 3 режимах: локально, удаленно (через browserStack), а также на реальном устройстве.
 
 3. [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
@@ -35,6 +37,7 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 Стек:
 Java • Rest Assured • AssertJ • Jackson
+
 Реализовано: Работа с моделями, использование Request/Response Specs для сокращения дублирования кода, кастомные Allure-фильтры для логирования HTTP-трафика.
 📊 Инфраструктура и CI/CD:
 
