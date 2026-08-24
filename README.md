@@ -1,16 +1,42 @@
-## Hi there 👋
+Привет, я Владислав! 👋
+QA Automation Engineer (Java)
+Специализируюсь ручном тестировании веб-приложений. 7 лет помогаю веб-приложениям разной сложности становится качественней, как функционально, так и нефункционально.  
 
-<!--
-**VSemenov95/VSemenov95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Активно развиваюсь в автоматизации: Web, Mobile и API. В своих проектах я делаю упор на масштабируемость, использование современных паттернов проектирования и построение полноценного CI/CD цикла.
 
-Here are some ideas to get you started:
+🛠 Технологический стек
+Language: Java 17
+Web UI: Selenide
+Mobile: Appium (Android)
+API: Rest Assured
+Build Tools: Gradle
+Infrastructure: Docker, Selenoid
+CI/CD & Reporting: Jenkins, Allure Report, Allure TestOps
+Configuration: Owner (Environment management)
+🚀 Основные проекты
+1. [Web Automation](https://github.com/VSemenov95/ya_samokat_ui_tests)
+Проект по автоматизации тестирования Web-интерфейсов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Стек: Java, Selenide, JUnit 5, Owner.
+Реализовано: Интеграция с Allure Report & Allure TestOps, управление конфигурациями через Owner для разных окружений (local/remote).
+Сборку можно запускать через Jenkins. 
+Также тесты можно запускать из Allure TestOps
+
+2. [Mobile Automation Project](https://github.com/VSemenov95/Wiki_mobile_tests)
+Автоматизация мобильного приложения для Android.
+
+Стек: Java, Appium, Selenide, JUnit 5, Android Studio.
+Запуск возможен в 3 режимах: локально, удаленно (через browserStack), а также на реальном устройстве.
+3. [API Testing Framework] (https://github.com/VSemenov95/book_club_tests)
+Набор тестов для проверки основных ручек приложения, дополнительно реализованы UI-тесты с подготовкой данных через API.
+
+Стек: Java, Rest Assured, AssertJ, Jackson.
+Реализовано: Работа с моделями, использование Request/Response Specs для сокращения дублирования кода, кастомные Allure-фильтры для логирования HTTP-трафика.
+📊 Инфраструктура и CI/CD:
+
+Jenkins: Сборки для параметризированого запуска тестов.
+Allure TestOps: Централизованное управление запусками и аналитика тестового покрытия.
+Telegram Bot: Система мгновенных уведомлений с результатами прогонов.
+📫 Связаться со мной
+Telegram: [@SemenovVS]
+Gmail: semasvs18@gmail.com
