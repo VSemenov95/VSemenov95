@@ -19,7 +19,7 @@ QA fullstack Engineer (Java)
 - [UI на примере учебного тренажера Яндекс.Самокат](https://github.com/VSemenov95/ya_samokat_ui_tests)
 .
 
-Стек:
+**Стек:**
 Java • Selenide • JUnit • Owner.
 
 Реализовано: Интеграция с Allure Report & Allure TestOps, управление конфигурациями через Owner для разных окружений (local/remote).
@@ -29,7 +29,7 @@ Java • Selenide • JUnit • Owner.
 
 - [Mobile for Android на примере Wiki](https://github.com/VSemenov95/Wiki_mobile_tests)
 
-Стек:
+**Стек:**
 Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 Запуск возможен в 3 режимах: локально, удаленно (через browserStack), а также на реальном устройстве.
@@ -38,12 +38,12 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 - [API & UI тесты на основе учебного тренажера BookClub](https://github.com/VSemenov95/book_club_tests)
 
-Стек:
+**Стек:**
 Java • Rest Assured • AssertJ • Jackson
 
 Реализовано: Работа с моделями, использование Request/Response Specs для сокращения дублирования кода, кастомные Allure-фильтры для логирования HTTP-трафика.
 
-📊 Инфраструктура и CI/CD:
+📊 **Инфраструктура и CI/CD:**
 
 Jenkins: Сборки для параметризированого запуска тестов.
 
