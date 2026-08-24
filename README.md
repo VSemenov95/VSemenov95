@@ -7,14 +7,14 @@ QA fullstack Engineer (Java)
 ---
 
 ### 🛠 Технологический стек
-Language: Java 17
-Web UI: Selenide
-Mobile: Appium (Android)
-API: Rest Assured
-Build Tools: Gradle
-Infrastructure: Docker, Selenoid
-CI/CD & Reporting: Jenkins, Allure Report, Allure TestOps
-Configuration: Owner (Environment management)
+- Language: Java 17
+- Web UI: Selenide
+- Mobile: Appium (Android)
+- API: Rest Assured
+- Build Tools: Gradle
+- Infrastructure: Docker, Selenoid
+- CI/CD & Reporting: Jenkins, Allure Report, Allure TestOps
+- Configuration: Owner (Environment management)
 ## 🚀 Основные проекты
 1. [Web Automation](https://github.com/VSemenov95/ya_samokat_ui_tests)
 Проект по автоматизации тестирования Web-интерфейсов.
@@ -23,8 +23,7 @@ Configuration: Owner (Environment management)
 Java • Selenide • JUnit • Owner.
 
 Реализовано: Интеграция с Allure Report & Allure TestOps, управление конфигурациями через Owner для разных окружений (local/remote).
-Сборку можно запускать через Jenkins. 
-Также тесты можно запускать из Allure TestOps.
+Сборку можно запускать через Jenkins, а также из Allure TestOps.
 
 ---
 
@@ -48,7 +47,9 @@ Java • Rest Assured • AssertJ • Jackson
 📊 Инфраструктура и CI/CD:
 
 Jenkins: Сборки для параметризированого запуска тестов.
+
 Allure TestOps: Централизованное управление запусками и аналитика тестового покрытия.
+
 Telegram Bot: Система мгновенных уведомлений с результатами прогонов.
 
 ---
