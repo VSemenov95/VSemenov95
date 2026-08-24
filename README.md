@@ -16,7 +16,7 @@ QA fullstack Engineer (Java)
 - CI/CD & Reporting: Jenkins, Allure Report, Allure TestOps
 - Configuration: Owner (Environment management)
 ## 🚀 Основные проекты
-1. [Web Automation](https://github.com/VSemenov95/ya_samokat_ui_tests)
+- [Web Automation](https://github.com/VSemenov95/ya_samokat_ui_tests)
 Проект по автоматизации тестирования Web-интерфейсов.
 
 Стек:
@@ -27,7 +27,7 @@ Java • Selenide • JUnit • Owner.
 
 ---
 
-2. [Mobile Automation Project](https://github.com/VSemenov95/Wiki_mobile_tests)
+- [Mobile Automation Project](https://github.com/VSemenov95/Wiki_mobile_tests)
 Автоматизация мобильного приложения для Android.
 
 Стек:
@@ -37,7 +37,7 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 ---
 
-3. [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
+- [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
 Набор тестов для проверки основных ручек приложения, дополнительно реализованы UI-тесты с подготовкой данных через API.
 
 Стек:
