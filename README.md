@@ -4,6 +4,8 @@ QA fullstack Engineer (Java)
 
 Активно развиваюсь в автоматизации: Web, Mobile и API. В своих проектах я делаю упор на масштабируемость, использование современных паттернов проектирования и построение полноценного CI/CD цикла.
 
+---
+
 ### 🛠 Технологический стек
 Language: Java 17
 Web UI: Selenide
@@ -22,7 +24,9 @@ Java • Selenide • JUnit • Owner.
 
 Реализовано: Интеграция с Allure Report & Allure TestOps, управление конфигурациями через Owner для разных окружений (local/remote).
 Сборку можно запускать через Jenkins. 
-Также тесты можно запускать из Allure TestOps
+Также тесты можно запускать из Allure TestOps.
+
+---
 
 2. [Mobile Automation Project](https://github.com/VSemenov95/Wiki_mobile_tests)
 Автоматизация мобильного приложения для Android.
@@ -31,6 +35,8 @@ Java • Selenide • JUnit • Owner.
 Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 Запуск возможен в 3 режимах: локально, удаленно (через browserStack), а также на реальном устройстве.
+
+---
 
 3. [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
 Набор тестов для проверки основных ручек приложения, дополнительно реализованы UI-тесты с подготовкой данных через API.
@@ -44,6 +50,8 @@ Java • Rest Assured • AssertJ • Jackson
 Jenkins: Сборки для параметризированого запуска тестов.
 Allure TestOps: Централизованное управление запусками и аналитика тестового покрытия.
 Telegram Bot: Система мгновенных уведомлений с результатами прогонов.
+
+---
 
 ### 📫 Связаться со мной
 * Telegram: [@SemenovVS](https://t.me/SemenovVS)
