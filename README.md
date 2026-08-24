@@ -7,17 +7,17 @@ QA fullstack Engineer (Java)
 ---
 
 ### 🛠 Технологический стек
-- Language: Java 17
-- Web UI: Selenide
-- Mobile: Appium (Android)
-- API: Rest Assured
-- Build Tools: Gradle
-- Infrastructure: Docker, Selenoid
-- CI/CD & Reporting: Jenkins, Allure Report, Allure TestOps
-- Configuration: Owner (Environment management)
+- **Language:** Java 17
+- **Web UI:** Selenide
+- **Mobile:** Appium (Android)
+- **API:** Rest Assured
+- **Build Tools:** Gradle
+- **Infrastructure:** Docker, Selenoid, Browsersteack
+- **CI/CD & Reporting:** Jenkins, Allure Report, Allure TestOps
+- **Configuration:** Owner (Environment management)
 ## 🚀 Основные проекты
-- [Web Automation](https://github.com/VSemenov95/ya_samokat_ui_tests)
-Проект по автоматизации тестирования Web-интерфейсов.
+- [UI на примере учебного тренажера Яндекс.Самокат](https://github.com/VSemenov95/ya_samokat_ui_tests)
+.
 
 Стек:
 Java • Selenide • JUnit • Owner.
@@ -27,8 +27,7 @@ Java • Selenide • JUnit • Owner.
 
 ---
 
-- [Mobile Automation Project](https://github.com/VSemenov95/Wiki_mobile_tests)
-Автоматизация мобильного приложения для Android.
+- [Mobile for Android на примере Wiki](https://github.com/VSemenov95/Wiki_mobile_tests)
 
 Стек:
 Java • Appium • Selenide • JUnit 5 • Android Studio.
@@ -37,8 +36,7 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 
 ---
 
-- [API Testing Framework](https://github.com/VSemenov95/book_club_tests)
-Набор тестов для проверки основных ручек приложения, дополнительно реализованы UI-тесты с подготовкой данных через API.
+- [API & UI тесты на основе учебного тренажера BookClub](https://github.com/VSemenov95/book_club_tests)
 
 Стек:
 Java • Rest Assured • AssertJ • Jackson
