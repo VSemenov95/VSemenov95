@@ -44,6 +44,7 @@ Java • Appium • Selenide • JUnit 5 • Android Studio.
 Java • Rest Assured • AssertJ • Jackson
 
 Реализовано: Работа с моделями, использование Request/Response Specs для сокращения дублирования кода, кастомные Allure-фильтры для логирования HTTP-трафика.
+
 📊 Инфраструктура и CI/CD:
 
 Jenkins: Сборки для параметризированого запуска тестов.
